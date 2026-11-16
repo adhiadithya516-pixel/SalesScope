@@ -18,3 +18,4 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+data/raw/olist_geolocation_dataset.csv
